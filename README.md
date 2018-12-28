@@ -3,13 +3,20 @@ Introduction
 
 **Content Site** -- Development using NodeJS with Express framework and data fetch from JSON file which is included in this source code 
 
-
 Installation
 ------------
 1. Download this source code using git command or from git site.
 2. Copy as you want to place in your system
 3. Copy as you want to place in your system, Issue that npm is intalled in you system
 3. Go to your project directory and run npm install
+
+Pages
+------------
+**Home Page**
+![image](https://user-images.githubusercontent.com/9930400/50512063-112d0700-0ab6-11e9-8532-398bb7ec2905.png)
+
+**AboutUs Page**
+![image](https://user-images.githubusercontent.com/9930400/50512097-3a4d9780-0ab6-11e9-9b45-1cd26f155427.png)
 
 Contribution
 ------------
