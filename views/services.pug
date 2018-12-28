@@ -1,0 +1,12 @@
+extends layout
+
+block content
+  h1 Services
+  
+
+  each service, i in services
+    di.well
+        h1 #{service.name}
+        h2 #{service.description}
+
+
